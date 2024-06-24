@@ -8,8 +8,6 @@
   },
   "homepage": "https://github.com/mcm1957/ioBroker.weblate-test",
   "license": "MIT",
-  "keywords": [
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mcm1957/ioBroker.weblate-test.git"

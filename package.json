@@ -13,6 +13,9 @@
     "url": "https://github.com/mcm1957/ioBroker.weblate-test.git"
   },
   "keywords": [
+    "ioBroker",
+    "smarthome",
+    "weblate testing"
   ],
   "engines": {
     "node": ">= 14"

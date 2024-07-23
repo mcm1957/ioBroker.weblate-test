@@ -14,8 +14,7 @@
   },
   "keywords": [
     "ioBroker",
-    "smarthome",
-    "weblate testing"
+    "smarthome"
   ],
   "engines": {
     "node": ">= 14"
